@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ecrRepo","Source":"./modules/ecr","Dir":"modules/ecr"},{"Key":"ecsCluster","Source":"./modules/ecs","Dir":"modules/ecs"},{"Key":"tf-state","Source":"./modules/tf-state","Dir":"modules/tf-state"}]}
